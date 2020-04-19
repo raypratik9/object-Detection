@@ -1,1 +1,1 @@
-Get yolov3.weights file from :https://pjreddie.com/media/files/yolov3.weights
+Download yolov3.weights file from :https://pjreddie.com/media/files/yolov3.weights
